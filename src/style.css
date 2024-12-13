@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'The-Icon-of';
+  src: url('fonts/The-Icon-of.woff?uv43t3');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^='tio-'],
+[class*=' tio-'] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'The-Icon-of' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tio-add_circle_outlined:before {
+  content: '\e900';
+}
+.tio-add_circle:before {
+  content: '\e901';
+}
+.tio-checkmark_circle_outlined:before {
+  content: '\e918';
+}
+.tio-help_outlined:before {
+  content: '\e933';
+}
+.tio-sync:before {
+  content: '\e96a';
+}
+.tio-time:before {
+  content: '\e970';
+}
+.tio-error_outlined:before {
+  content: '\e97e';
+}
+.tio-send:before {
+  content: '\ea17';
+}
+.tio-print:before {
+  content: '\eb6e';
+}
+.tio-receipt:before {
+  content: '\ec01';
+}
+.tio-dashboard_vs:before {
+  content: '\ecaa';
+}
+.tio-delete:before {
+  content: '\ecad';
+}
+.tio-download_to:before {
+  content: '\ecaf';
+}
+.tio-settings_vs:before {
+  content: '\ecda';
+}
