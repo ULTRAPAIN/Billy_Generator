@@ -1,5 +1,7 @@
 
 
+# Dashrath Patel 🧾
+
 A Serverless JAM Stack Invoicing Application made with React.js, Redux, and Firebase and Styled using Styled Components. Create & export GST ready invoice, keep track of payments, and more.
 
 ## Features 💫
